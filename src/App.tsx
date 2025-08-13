@@ -233,7 +233,7 @@ export default function App() {
             margin="dense"
           >
             <MenuItem value="todo">Todo</MenuItem>
-            <MenuItem value="in progress">In Progress</MenuItem>
+            <MenuItem value="inprogress">In Progress</MenuItem>
             <MenuItem value="review">Review</MenuItem>
             <MenuItem value="completed">Completed</MenuItem>
           </TextField>
